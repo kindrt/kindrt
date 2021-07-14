@@ -2,6 +2,9 @@
 Senior Research Scientist, National Center for Supercomputing Applications<br>
 Adjunct Associate Professor, Department of Electrical and Computer Engineering<br>
 Research Associate Professor, Department of Computer Science<br>
+<br>
+Research: AI, HPC, Accelerators, Cloud Computing<br>
+Teaching: ECE 120, 220, 385, 408, 425<br>
 
 
 <!---
