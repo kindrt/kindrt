@@ -1,7 +1,7 @@
-<b>Volodymyr Kindratenko, D.Sc.</b>
-Senior Research Scientist, National Center for Supercomputing Applications
-Adjunct Associate Professor, Department of Electrical and Computer Engineeringi
-Research Associate Professor, Department of Computer Science
+<b>Volodymyr Kindratenko, D.Sc.</b><br>
+Senior Research Scientist, National Center for Supercomputing Applications<br>
+Adjunct Associate Professor, Department of Electrical and Computer Engineering<br>
+Research Associate Professor, Department of Computer Science<br>
 
 
 <!---
