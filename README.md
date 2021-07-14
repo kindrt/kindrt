@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kindrt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<b>Volodymyr Kindratenko, D.Sc.</b>
+Senior Research Scientist, National Center for Supercomputing Applications
+Adjunct Associate Professor, Department of Electrical and Computer Engineeringi
+Research Associate Professor, Department of Computer Science
+
 
 <!---
 kindrt/kindrt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
