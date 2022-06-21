@@ -1,5 +1,6 @@
 <b>Volodymyr Kindratenko, D.Sc.</b><br>
-Assistant Director, Director of the Center for Artificial Intelligence Innovation, National Center for Supercomputing Applications<br>
+Assistant Director, National Center for Supercomputing Applications (NCSA)<br>
+Director of the Center for Artificial Intelligence Innovation at NCSA<br>
 Adjunct Associate Professor, Department of Electrical and Computer Engineering<br>
 Research Associate Professor, Department of Computer Science<br>
 <br>
